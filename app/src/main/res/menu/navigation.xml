@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigationhizmetara"
+        android:icon="@drawable/navigationbar_hizmetara"
+        android:title="@string/title_hizmetara" />
+
+    <item
+        android:id="@+id/navigationislemlerim"
+        android:icon="@drawable/navigationbar_islemlerim"
+        android:title="@string/title_islemlerim" />
+
+    <item
+        android:id="@+id/navigationbildirimlerim"
+        android:icon="@drawable/navigationbar_bildirimlerim"
+        android:title="@string/title_bildirimlerim" />
+    <item
+        android:id="@+id/navigationprofilim"
+        android:icon="@drawable/navigationbar_profilim"
+        android:title="@string/title_profilim" />
+</menu>
